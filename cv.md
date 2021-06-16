@@ -1,1 +1,1 @@
-# ciriculam vitae
+# curriculum vitae
