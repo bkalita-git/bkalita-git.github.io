@@ -1,3 +1,4 @@
+<!---
 # hello world!
 ![profile pic](https://images.pexels.com/photos/771742/pexels-photo-771742.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500)
 
@@ -16,6 +17,7 @@ multi threading concurrency = doing single work by multiple resource<br>
 type safe= compiler can check whether you're using the right types. eg: printf("%s",42); will crash in C lang
 
 [my cv](./cv.md)
+-->
 <div align="center">
-    <img src="example.svg" width="400" height="400" alt="css-in-readme">
+    <img src="example.svg" alt="css-in-readme">
 </div>
