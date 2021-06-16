@@ -16,3 +16,6 @@ multi threading concurrency = doing single work by multiple resource<br>
 type safe= compiler can check whether you're using the right types. eg: printf("%s",42); will crash in C lang
 
 [my cv](./cv.md)
+<div align="center">
+    <img src="example.svg" width="400" height="400" alt="css-in-readme">
+</div>
