@@ -14,3 +14,5 @@ dart|AOT<br>JIT<br>Object Oriented<br>Garbage collected<br>Type safe<br>Optional
 multi tasking concurrency   = doing multiple work by single resource<br>
 multi threading concurrency = doing single work by multiple resource<br>
 type safe= compiler can check whether you're using the right types. eg: printf("%s",42); will crash in C lang
+
+![my cv](./cv.md)
