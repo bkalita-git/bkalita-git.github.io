@@ -21,3 +21,4 @@ type safe= compiler can check whether you're using the right types. eg: printf("
 <div align="center">
     <img src="example.svg" alt="css-in-readme">
 </div>
+[pdf](./Compiling_a_Curriculum_Vitae.pdf)
