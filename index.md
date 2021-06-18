@@ -18,6 +18,10 @@ type safe= compiler can check whether you're using the right types. eg: printf("
 
 [my cv](./cv.md)
 -->
+# Bipul Kaita
+hastetough1@gmail.com<br>
+ph &nbsp;&nbsp;&nbsp; : +91 7086267799<br>
+DOB : 01-03-1996
 ## Education
 
 | Qualification | Year of Completion | Institute | Board/University | Mark Obtained |
