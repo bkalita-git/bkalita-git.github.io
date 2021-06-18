@@ -18,14 +18,23 @@ type safe= compiler can check whether you're using the right types. eg: printf("
 
 [my cv](./cv.md)
 -->
+Qualification|Year of Completion|Institute|Board/University|Mark Obtained
+-------------|------------------|---------|----------------|-------------
+M.Sc. (Comp. Sc.) | 2018 | Gauhati University | Gauhati University | 8.94 (CGPA)
+B.Sc. (Comp. Sc.) | 2016 | L.C. Bharali College,<br>Maligaon | Gauhati University | 8.1 (CGPA)
+Higher Secondary (Sc.) | 2013 | Bajali College,<br>Pathsala | AHSEC | 61%
+High School | 2011 | Bajali H.S. School,<br>Pathsala |SEBA|63%
+
 Johnny Coder
 ============
 
--------------------     ----------------------------
-1 MyAddress                        email@example.com
-MyTown 1000                          @twitter_handle
-MyCountry                           1800 my-phone-nr
--------------------     ----------------------------
+----
+
+>  In this style, the resume starts with a blockquote, where
+>  you can briefly list your specialties, or include a salient
+>  quote. Ending a line with a backslash forces a line break.
+
+----
 
 Education
 ---------
@@ -111,3 +120,8 @@ Extra Section, Call it Whatever You Want
 * Random tidbit
 
 * Other sort of impressive-sounding thing you did
+
+----
+
+> <email@example.com> • +00 (0)00 000 0000 • XX years old\
+> address - Mytown, Mycountry
