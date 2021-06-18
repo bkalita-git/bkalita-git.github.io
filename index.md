@@ -18,12 +18,15 @@ type safe= compiler can check whether you're using the right types. eg: printf("
 
 [my cv](./cv.md)
 -->
-Qualification|Year of Completion|Institute|Board/University|Mark Obtained
--------------|------------------|---------|----------------|-------------
-M.Sc. (Comp. Sc.) | 2018 | Gauhati University | Gauhati University | 8.94 (CGPA)
-B.Sc. (Comp. Sc.) | 2016 | L.C. Bharali College,<br>Maligaon | Gauhati University | 8.1 (CGPA)
-Higher Secondary (Sc.) | 2013 | Bajali College,<br>Pathsala | AHSEC | 61%
-High School | 2011 | Bajali H.S. School,<br>Pathsala |SEBA|63%
+Education
+---------
+
+| Qualification | Year of Completion | Institute | Board/University | Mark Obtained |
+| ------------- | ------------------ | --------- | ---------------- | ------------- |
+| M.Sc. (Comp. Sc.) | 2018 | Gauhati University | Gauhati University | 8.94 (CGPA) |
+| B.Sc. (Comp. Sc.) | 2016 | L.C. Bharali College,<br>Maligaon | Gauhati University | 8.1 (CGPA) |
+| Higher Secondary (Sc.) | 2013 | Bajali College,<br>Pathsala | AHSEC | 61% |
+| High School | 2011 | Bajali H.S. School,<br>Pathsala | SEBA|63%|
 
 Johnny Coder
 ============
