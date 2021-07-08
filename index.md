@@ -18,19 +18,54 @@ type safe= compiler can check whether you're using the right types. eg: printf("
 
 [my cv](./cv.md)
 -->
-# Bipul Kaita
+Bipul Kalita
+============
 
-| Contact | Address |
-| ------:| -----------:|
-| hastetough1@gmail.com   | Patacharkuchi,Assam |
-| +91 7086267799 | 781326 |
-|     | India |
+---
 
-## Education
+> <bkalita.mail@gmail.com> \
+>Ph: +91 (7)08 626 xxxx \
+>Bajali, Assam \
+>India \
+>Linkedin: *linkedin.com/in/bkalita* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Github: *github.com/bkalita-git*
 
-| Qualification | Year of Completion | Institute | Board/University | Mark Obtained |
-| ------------- | ------------------ | --------- | ---------------- | ------------- |
+----
+
+Education
+---------
+
+| **Qualification** | **Year of Completion** | **Institute** | **Board/University** | **Mark Obtained** |
+| ------------- | ----------- | ------------------- | ---------------- | ------------- |
 | M.Sc. (Comp. Sc.) | 2018 | Gauhati University | Gauhati University | 8.94 (CGPA) |
 | B.Sc. (Comp. Sc.) | 2016 | L.C. Bharali College,<br>Maligaon | Gauhati University | 8.1 (CGPA) |
 | Higher Secondary (Sc.) | 2013 | Bajali College,<br>Pathsala | AHSEC | 61% |
-| High School | 2011 | Bajali H.S. School,<br>Pathsala | SEBA|63% |
+| High School | 2011 | Bajali H.S. School,<br>Pathsala | SEBA|63%|
+
+Experience
+----------
+
+Oct 2020 - Apr 2021
+:   **Software Developer**; BJP Party, Assam
+
+    *Developed: **MY BJP** Android App, Visitor Registration System.*
+
+Feb 2020 - Apr 2020
+:	**Guest Lecturer**; LCB College, Maligaon, Assam
+
+:   &nbsp;&nbsp;
+
+Technical Experience
+--------------------
+
+My Cool Side Project
+:   Based on Artificial Intelligence.
+
+    * Image Identification.
+    * LBP.
+
+Programming Languages
+:   **Dart:** Here, we have an itemization, where we only want
+
+:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
+
+---
