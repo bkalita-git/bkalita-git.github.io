@@ -3,6 +3,16 @@
     <h1 class="dis-date"></h1>
   </body>
   <script>
-    document.querySelector(".dis-date").innerHTML = "hi";
+    const _MS_PER_DAY = 1000 * 60 * 60 * 24;
+    function dateDiffInDays(a, b) {
+      // Discard the time and time-zone information.
+      const utc1 = Date.UTC(a.getFullYear(), a.getMonth(), a.getDate());
+      const utc2 = Date.UTC(b.getFullYear(), b.getMonth(), b.getDate());
+      return Math.floor((utc2 - utc1) / _MS_PER_DAY);
+    }
+	  const a   = new Date("2022-07-02");
+    var today = new Date();
+    difference = dateDiffInDays(today, a);
+	  document.querySelector(".dis-date").innerHTML = difference;
   </script>
 </html>
